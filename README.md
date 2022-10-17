@@ -8,7 +8,8 @@
 
 🥳 다양한 사람들과 커피를 마시며 **커뮤니케이션** 하는 것을 즐기는 편입니다.
 
-
+<br/>
+<br/>
 
 <div align="center">
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bennoholik&show_icons=true"/>
