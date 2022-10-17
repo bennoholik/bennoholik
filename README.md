@@ -7,3 +7,12 @@
 😎 UI/UX 에도 관심이 있어 **사용자 입장에서 어떻게 생각하는지** 고민하고 적용하려고 노력하고있습니다. 
 
 🥳 다양한 사람들과 커피를 마시며 **커뮤니케이션** 하는 것을 즐기는 편입니다.
+
+
+
+<div align="center">
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=bennoholik&show_icons=true"/>
+ <p>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennoholik&layout=compact&langs_count=8&card_width=200"/>
+
+</div>
