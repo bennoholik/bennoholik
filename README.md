@@ -11,4 +11,11 @@
 <br/>
 <br/>
 
+<div align="center">	
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=bennoholik&theme=transparent&show_icons=true"/>	
+ <p>	
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennoholik&theme=transparent&layout=compact&langs_count=8&card_width=200"/>	
+
+
+</div>	
 
