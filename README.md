@@ -8,7 +8,7 @@
 
 🥳 다양한 사람들과 커피를 마시며 **커뮤니케이션** 하는 것을 즐기는 편입니다.
 
-<br/>
+<!-- <br/>
 <br/>
 
 <div align="center">	
@@ -17,3 +17,4 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennoholik&theme=transparent&layout=compact&langs_count=8&card_width=200"/>	
 </div>	
 
+ -->
