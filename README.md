@@ -18,3 +18,13 @@
 </div>	
 
  -->
+
+
+Part🗂|Stacks✍️|
+|:---:|:---:|
+|language|<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>|
+|style|<img src="https://img.shields.io/badge/styled_components-DB7093?style=flat-squre&logo=styledcomponents&logoColor=white"><img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-squre&logo=tailwindCss&logoColor=white">|
+|Library||
+|⚒Tool|<img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>||
+|Deploy|<img src="https://img.shields.io/badge/AwsS3-232F3E?style=for-the-badge&logo=AmazonS3&logoColor=white"/><img src="https://img.shields.io/badge/AwsRoute53-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>|
+
